@@ -1,0 +1,19 @@
+.body{
+    background-color: aqua ;
+    text-align: center;
+    margin-top: 250;
+}
+
+.div1{
+    background-color: white;
+    width: 300px;
+    height: 350px;
+    margin-left: 650px;
+    padding-top: 50;
+    border-radius:20%;
+}
+
+.img1{
+    width: 50px;
+    height: 50spx;
+}
